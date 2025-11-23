@@ -1,0 +1,33 @@
+# Core LLM & Orchestration
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-anthropic==0.1.1
+langgraph==0.0.20
+langchain-community==0.0.20
+
+# Vector Database & Embeddings
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# Search & Retrieval
+rank-bm25==0.2.2
+cohere==4.37
+
+# Web & News APIs
+requests==2.31.0
+beautifulsoup4==4.12.3
+feedparser==6.0.11
+newsapi-python==0.2.7
+yfinance==0.2.36
+alpha-vantage==2.3.1
+
+# UI & Visualization
+streamlit==1.31.0
+plotly==5.18.0
+pandas==2.2.0
+python-dotenv==1.0.1
+
+# Utilities
+pydantic==2.6.0
+tenacity==8.2.3
+tiktoken==0.6.0
